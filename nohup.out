@@ -1,2 +1,0 @@
-usage: cctvread.py [-h] --config CONFIG
-cctvread.py: error: the following arguments are required: --config
