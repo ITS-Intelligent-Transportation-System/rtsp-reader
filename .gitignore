@@ -129,5 +129,6 @@ dmypy.json
 .pyre/
 
 # Application Ignore
-.log
+*.log
 cctv-log/
+*.out
